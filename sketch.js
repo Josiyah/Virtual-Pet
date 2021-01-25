@@ -53,4 +53,4 @@ function writeStock(x){
   database.ref('/').update({
   })
 }
-//
+
